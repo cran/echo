@@ -1,0 +1,16 @@
+2dad639fe6d4c5d04068176bfc2dfcef *DESCRIPTION
+cd0efef5954752fc59397a528516d1f1 *LICENSE
+f405a9e4f11a3ee58b835c2860154383 *NAMESPACE
+90b94f5ffe3fec9f3101fd82f9ce6dd4 *R/echo-classes.R
+bf848f58ad56925718936329f2c79eed *R/echo-package.R
+51cf584963f291d148894a42b2285182 *R/echo.R
+138e02c4d385c8e43b570e8aa3d4d12e *R/utils.R
+4d2e4c34fb432d3f55a4291d748362f9 *README.md
+f970815df808ce3d58c1047915be12a0 *inst/WORDLIST
+0dedff035794914f88df657c367f7b7c *inst/example-script.R
+6bf301e3bcf4b97a6f38912acbc3f674 *man/echo-package.Rd
+03a4f788dbdf494b9f302d12c85b356d *man/echo.Rd
+0622a97a2aaa3c342f09636052c2d7f5 *tests/spelling.R
+b1899ccba86556e0a087c668865e1f2c *tests/testthat.R
+75ebfd2e6f169b54a1f8e5cea597c263 *tests/testthat/test-echo.R
+61829cb6d3000c61c4cc7b339a3e7a56 *tests/testthat/test-utils.R
